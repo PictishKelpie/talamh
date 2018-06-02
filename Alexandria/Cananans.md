@@ -8,3 +8,4 @@ Cheat | Description
 --- | ---
 git branch <new branch> | Create a new branch locally
 git push origin <new branch> | create new branch on remote
+git push --set-upstream origin <new branch> | set up to track remote <new branc> from origin
