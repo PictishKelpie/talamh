@@ -5,8 +5,8 @@ Acronym | Description | Link
 GFM | GitHub Flavored Markdown | [Spec](https://github.github.com/gfm/)
 Markdown | Simple Text to HTML Translator | [Intro](https://daringfireball.net/projects/markdown/)
 
-Definition | Category | Description
---- | --- | ---
+Definition | Sub-Category | Category | Description
+--- | --- | --- | ---
 Tag | GitHub | GitHub | References a point in time on a branch 
 Region | AWS | Infrastructure | Physical Geographical Area has 2 or more AZs
 AZ | AWS | Infrastructure | Availabity Zones (aka Data Centers)
