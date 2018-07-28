@@ -111,26 +111,6 @@ iOT Device Mgmt | AWS | iOT | Manage Connected Devicies In an iOT Environment
 Amazon FreeRTOS | AWS | iOT | OS for Micro Controllers
 Greengrass | AWS | iOT | Secure Machine Learning/Connectivity For Devices
 Gamelift | AWS | Game Dev | Support To Develop Games
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-D
-
-
-
- 
+Subnet | IP | Network | [Summary](https://support.microsoft.com/en-us/help/164015/understanding-tcp-ip-addressing-and-subnetting-basics) 
 
 
