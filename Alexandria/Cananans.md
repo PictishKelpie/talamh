@@ -7,6 +7,7 @@
 ## Cheat Snippets
 Cheat | Description
 --- | ---
+git add <file>;git commit -m '<msg>'; git push | add, commit and push change
 git branch __new branch__ | Create a new branch locally
 git push origin __new branch__ | Create __new branch__ on remote
 git push --set-upstream origin __new branch__ | Set up to track remote __new branch__ from origin
